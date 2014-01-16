@@ -48,8 +48,8 @@ A list of the typical skill set required for UI developers. Not a definitive lis
 Sources
 -------
 
-http://www.clearleft.com/thinks/front-enddesignprinciples/
-http://uxmag.com/articles/guiding-principles-for-ux-designers
-http://principles.adactio.com/
-http://jonnywyatt.com/2011/09/17/front-end-development-principles/
-http://www.impressivewebs.com/skills-front-end-developers/#comment-17776
+* http://www.clearleft.com/thinks/front-enddesignprinciples/
+* http://uxmag.com/articles/guiding-principles-for-ux-designers
+* http://principles.adactio.com/
+* http://jonnywyatt.com/2011/09/17/front-end-development-principles/
+* http://www.impressivewebs.com/skills-front-end-developers/#comment-17776
