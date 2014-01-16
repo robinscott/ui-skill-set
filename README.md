@@ -1,4 +1,4 @@
-UI skill set
+UI / Frontend skill set
 ============
 
 A list of the typical skill set required for UI developers. Not a definitive list in anyway but a guide to some of the main technology requirements for the role.
